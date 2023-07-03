@@ -1,3 +1,4 @@
-# Filter BLAST results (xml format)
+# Filter BLAST results
 
-This python script will filter blast results using percentage of identity, query and subject coverage.
+This python script will filter blast results (in xml format) using percentage of identity, query and subject coverage.
+
